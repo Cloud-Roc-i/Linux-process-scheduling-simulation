@@ -1,6 +1,8 @@
 # Linux-process-scheduling-simulation
 一个用Java实现的Linux进程调度模拟程序
+
 本人的Linux课程设计成果。
+
 已实现的功能：
 * 1.带界面，可自由选择调度算法
 * 2.进程状态实时更新
